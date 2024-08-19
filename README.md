@@ -1,3 +1,2 @@
-# Hi folks👋🏻
-## I am Aditya Kumar Yadav!!
-### Currently in Amity University Noida to pursue one of the hardest course, Computer Science and Engineering😁
+# <p align='center'>Hi folks👋🏻</p>
+## <p align='center'>I am Aditya Kumar Yadav!!</p>
